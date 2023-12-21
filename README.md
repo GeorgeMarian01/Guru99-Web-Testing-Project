@@ -1,3 +1,6 @@
+
+![Logo](https://media.licdn.com/dms/image/D4D2DAQH8OjI_fO4Shg/profile-treasury-image-shrink_800_800/0/1701107716444?e=1703797200&v=beta&t=XuLtzFDKG9xrEklN-B7RH8u5ZAsEu3gB5vgM4jv1hPA)
+
 ## Project documentation
 The project consists of 4 iterations of a web application
 
