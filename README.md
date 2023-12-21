@@ -8,19 +8,7 @@ I am continuously striving to enhance my expertise, I am enthusiastic about cons
 
 
 ## Tech Stack
-✔️ WEB TESTING  
-✔️ FRONT-END TESTING  
-✔️ MANUAL TESTING  
-✔️ FUNCTIONAL TESTING.  
-✔️ GUI / UI TESTING  
-✔️ ISTQB_CTFL  
-✔️ Jira  
-✔️ TestRail  
-✔️ TestGear  
-✔️ GitHub  
-✔️ Confluence  
-✔️ Miro  
-✔️ Charles Proxy
+✔️ WEB TESTING  ✔️ FRONT-END TESTING  ✔️ MANUAL TESTING  ✔️ FUNCTIONAL TESTING.  ✔️ GUI / UI TESTING  ✔️ ISTQB_CTFL  ✔️ Jira  ✔️ TestRail  ✔️ TestGear  ✔️ GitHub  ✔️ Confluence  ✔️ Miro  ✔️ Charles Proxy
 
 
 ## 🔗 Links
