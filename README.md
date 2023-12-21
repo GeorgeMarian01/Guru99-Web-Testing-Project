@@ -1,8 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## Project documentation
 The project consists of 4 iterations of a web application
 
