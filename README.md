@@ -15,6 +15,16 @@ I am continuously striving to enhance my expertise, I am enthusiastic about cons
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgelupu/)
 
 
+## Web Testing for Banking App
+✅ Conducted rigorous manual testing across 4 iterations of a web application
+
+✅ Identified and reported 80+ bugs in Jira
+
+✅ Created 120+ test cases that covered critical functions and edge cases, ensuring exhaustive coverage of the application's functionalities
+
+✅ Executed 120+ manual tests across component, integration, and system levels, proactively averted potential system failures, ensuring seamless project progression and client satisfaction
+
+
 ## Project documentation
 The project consists of 4 iterations of a web application
 
