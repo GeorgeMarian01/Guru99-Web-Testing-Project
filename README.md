@@ -9,9 +9,9 @@ The project consists of 4 versions of a web application
 ## Test case execution
 #### BUILD 1.3 📍   
 
-[NCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NCM-1.3.pdf)  
-[EDM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/ECM-1.3.pdf)  
-[DAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DAM-1.3.pdf)  
-[NAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NAM-1.3.pdf)  
-[EAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/EAM-1.3.pdf)  
-[DCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DCM-1.3.pdf)
+- [NCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NCM-1.3.pdf)  
+- [EDM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/ECM-1.3.pdf)  
+- [DAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DAM-1.3.pdf)  
+- [NAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NAM-1.3.pdf)  
+- [EAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/EAM-1.3.pdf)  
+- [DCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DCM-1.3.pdf)
