@@ -16,4 +16,5 @@ The project consists of 4 versions of a web application
 - [EAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/EAM-1.3.pdf)  
 - [DCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DCM-1.3.pdf)  
 - [MSM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/MSM-1.3.pdf)  
-- [CSM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/CSM-1.3.pdf)
+- [CSM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/CSM-1.3.pdf)  
+- [BEM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/BEM-1.3.pdf)
