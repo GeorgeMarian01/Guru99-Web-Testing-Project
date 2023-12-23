@@ -11,4 +11,5 @@ The project consists of 4 versions of a web application
 
 [NCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NCM-1.3.pdf)  
 [EDM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/ECM-1.3.pdf)  
-[DAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DAM-1.3.pdf)
+[DAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DAM-1.3.pdf)  
+[NAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NAM-1.3.pdf)
