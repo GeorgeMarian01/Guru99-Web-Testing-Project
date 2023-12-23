@@ -21,4 +21,4 @@ The project consists of 4 versions of a web application
 - [IT-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/IT-1.3.pdf)
 
 ## Bugs
-#### BUILD 1.3 🐞
+#### BUILD 1.3 ❌
