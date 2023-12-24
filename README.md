@@ -10,7 +10,7 @@ The project consists of 4 versions of a web application
 #### BUILD 1.3 📍   
 
 - [NCM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NCM-1.3.pdf)  
-- [EDM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/ECM-1.3.pdf)  
+- [ECM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/ECM-1.3.pdf)  
 - [DAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/DAM-1.3.pdf)  
 - [NAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/NAM-1.3.pdf)  
 - [EAM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/EAM-1.3.pdf)  
@@ -20,5 +20,19 @@ The project consists of 4 versions of a web application
 - [BEM-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/BEM-1.3.pdf)  
 - [IT-1.3](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%201.3/IT-1.3.pdf)
 
+#### BUILD 2.0 📍
+
+- [NCM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/NCM-2.0.pdf)
+- [ECM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/ECM-2.0.pdf)
+- [DAM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/DAM-2.0.pdf)
+- [NAM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/NAM-2.0.pdf)
+- [EAM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/EAM-2.0.pdf)
+- [DCM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/DCM-2.0.pdf)
+- [MSM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/MSM-2.0.pdf)
+- [CSM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/CSM-2.0.pdf)
+- [BEM-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/BEM-2.0.pdf)
+- [IT-2.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%202.0/IT-2.0.pdf)
+
 ## Bugs
 - [Issues for BUILD 1.3 🕷️](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%201.3)
+- [Issues for BUILD 2.0 🕷️](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%202.0)
