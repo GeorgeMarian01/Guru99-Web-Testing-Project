@@ -44,6 +44,7 @@ The project consists of 4 versions of a web application
 - [🧪 CSM-3.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%203.0/CSM-3.0.pdf)
 - [🧪 BEM-3.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%203.0/BEM-3.0.pdf)
 - [🧪 IT-3.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%203.0/IT-3.0.pdf)
+- [🧪 ST-3.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%203.0/ST-3.0.pdf)
 
 ## Bugs
 - [🕷️ Issues for BUILD 1.3](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%201.3)
