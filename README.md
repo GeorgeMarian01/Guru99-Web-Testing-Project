@@ -63,3 +63,4 @@ The project consists of 4 versions of a web application
 - [Issues for BUILD 1.3 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%201.3)
 - [Issues for BUILD 2.0 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%202.0)
 - [Issues for BUILD 3.0 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%203.0)
+- [Issues for BUILD 4.0 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%204.0)
