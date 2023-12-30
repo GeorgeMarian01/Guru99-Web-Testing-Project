@@ -59,8 +59,16 @@ The project consists of 4 versions of a web application
 - [🧪 IT-4.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%204.0/IT-4.0.pdf)
 - [🧪 ST-4.0](https://github.com/GeorgeMarian01/test/blob/main/Test%20case%20execution/Build%204.0/ST-4.0.pdf)
 
-## Bugs
+## Bugs 
 - [Issues for BUILD 1.3 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%201.3)
 - [Issues for BUILD 2.0 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%202.0)
 - [Issues for BUILD 3.0 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%203.0)
 - [Issues for BUILD 4.0 🚩](https://github.com/GeorgeMarian01/test/tree/main/Bugs/Build%204.0)
+
+## Metrics 📊
+- 670 tests executed ☑️
+- 100 functional tests ☑️
+- 58 system tests ☑️
+- 15 integration tests ☑️
+- 504 regression tests ☑️
+- 208 bugs identified & reported ☑️
