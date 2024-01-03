@@ -15,9 +15,6 @@ I am continuously striving to enhance my expertise, I am enthusiastic about cons
 Immersed in an extensive testing project, I methodically conducted manual tests across four distinct builds of a web application. My testing spectrum covered a variety of test types, including functional, integration, system, and regression testing. The focal point of my examination was the meticulous evaluation of the application's eight modules, subjected to a rigorous testing strategy to fortify their robustness and reliability.
 
 
-![Logo](https://media.licdn.com/dms/image/D4D2DAQH8OjI_fO4Shg/profile-treasury-image-shrink_800_800/0/1701107716444?e=1704553200&v=beta&t=s5eCGEQSeIXyIZl2fNOGVLRK6r3BsVctyu00CSVztaM)
-
-
 ## Project documentation
 The project consists of 4 versions of a web application 
 
