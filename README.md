@@ -89,3 +89,4 @@ The project consists of 4 versions of a web application
 - 15 integration tests ☑️
 - 504 regression tests ☑️
 - 208 bugs identified & reported ☑️
+- 150+ analysed business requirements ☑️
