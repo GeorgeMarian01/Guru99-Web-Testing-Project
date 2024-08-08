@@ -1,15 +1,3 @@
-
-## 🚀 About Me
-Junior QA Engineer passionate about delivering high software quality through collective teamwork. As an ISTQB Certified Tester, I am highly motivated to ensure quality in software products by following international software testing practices and standards.
-
-I am continuously striving to enhance my expertise, I am enthusiastic about consistently learning and integrating new technologies to further elevate software quality assurance.
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgelupu/)
-
-
-
 # Web Testing for banking app
 
 Immersed in an extensive testing project, I methodically conducted manual tests across four distinct builds of a web application. My testing spectrum covered a variety of test types, including functional, integration, system, and regression testing. The focal point of my examination was the meticulous evaluation of the application's eight modules, subjected to a rigorous testing strategy to fortify their robustness and reliability.
