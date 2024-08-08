@@ -1,7 +1,9 @@
-# Guru99-Web-Testing-Project
 
-Immersed in an extensive testing project, I methodically conducted manual tests across four distinct builds of a web application. My testing spectrum covered a variety of test types, including functional, integration, system, and regression testing. The focal point of my examination was the meticulous evaluation of the application's eight modules, subjected to a rigorous testing strategy to fortify their robustness and reliability.
+# About the project
 
+Guru99 Web Testing Project is a hands-on, live project offered by the learning platform Guru99.com. This project is designed to simulate real-world testing scenarios, providing software testers with four distinct versions of a web application tailored to the banking industry. 
+
+Each version of the application comes with comprehensive documentation and a set of pre-identified bugs, offering an environment for practicing various testing activities. Testers are expected to analyze the provided documentation, execute test cases, identify defects, and validate fixes, mirroring the processes followed in professional software testing environments.
 
 ## Project documentation
 The project consists of 4 versions of a web application 
