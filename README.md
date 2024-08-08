@@ -1,4 +1,4 @@
-# Web Testing for banking app
+# Guru99-Web-Testing-Project
 
 Immersed in an extensive testing project, I methodically conducted manual tests across four distinct builds of a web application. My testing spectrum covered a variety of test types, including functional, integration, system, and regression testing. The focal point of my examination was the meticulous evaluation of the application's eight modules, subjected to a rigorous testing strategy to fortify their robustness and reliability.
 
